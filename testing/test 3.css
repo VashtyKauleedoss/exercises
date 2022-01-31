@@ -1,0 +1,33 @@
+.container{
+  border: 2px red solid;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+
+}
+
+.ketchup{
+  background-color: yellow;
+  width: 600px;
+  height: 120px;
+
+
+}
+
+.chicken{
+  background-color: red;
+  width: 150px;
+  height: 150px;
+}
+
+.text{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+
+
+
+}

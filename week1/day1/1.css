@@ -1,0 +1,29 @@
+.flag{
+  background-color: #3d3d3d;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+}
+.first{
+  background-color: #ff0000;
+  width: 500px;
+  height: 25%
+}
+
+.second{
+  background-color: #0000ff;
+  width: 500px;
+  height: 25%
+}
+
+.third{
+  background-color: #FFFF00;
+  width: 500px;
+  height: 25%
+}
+
+.fourth{
+  background-color: #008000;
+  width: 500px;
+  height: 25%
+}

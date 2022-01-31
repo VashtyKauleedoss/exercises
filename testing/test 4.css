@@ -1,0 +1,44 @@
+.container{
+  border: 2px red solid;
+  height: 100px;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+
+.ketchup{
+  background-color: silver;
+  width: 125px;
+  height: 30px;
+
+
+
+}
+
+.pima{
+  background-color: orange;
+  width: 400px;
+  height: 30px;
+
+}
+
+.chicken{
+  background-color: skyblue;
+  width: 400px;
+  height: 30px;
+}
+
+.text{
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  padding-top: 10px;
+
+
+
+
+}

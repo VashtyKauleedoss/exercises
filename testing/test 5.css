@@ -1,0 +1,36 @@
+.container{
+  border: 2px red solid;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.ketchup{
+  background-color: royalblue;
+  width: 375px;
+  height: 125px;
+
+
+
+}
+
+.chicken{
+  background-color: purple;
+  width: 600px;
+  height: 135px;
+
+}
+
+.text{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+
+
+
+
+}
